@@ -42,7 +42,10 @@ dependencies:
   - zlib=1.2.11=ha838bed_2
   - pip:
     - actionlib==1.11.13
+<<<<<<< HEAD
     - angle==0.1.9
+=======
+>>>>>>> b4723f081e838ee8c0bb6eb50cba2278b1a62b40
     - angles==1.9.11
     - bleach==2.0.0
     - bondpy==1.8.2
@@ -105,7 +108,11 @@ dependencies:
     - python-dateutil==2.6.0
     - python-qt-binding==0.3.4
     - pytz==2017.2
+<<<<<<< HEAD
     - pyyaml==3.13
+=======
+    - pyyaml==3.12
+>>>>>>> b4723f081e838ee8c0bb6eb50cba2278b1a62b40
     - pyzmq==16.0.2
     - qt-dotgraph==0.3.10
     - qt-gui==0.3.10
@@ -173,7 +180,10 @@ dependencies:
     - smach==2.0.1
     - smach-ros==2.0.1
     - smclib==1.8.2
+<<<<<<< HEAD
     - stem==1.6.0
+=======
+>>>>>>> b4723f081e838ee8c0bb6eb50cba2278b1a62b40
     - terminado==0.6
     - testpath==0.3.1
     - tf==1.12.0
